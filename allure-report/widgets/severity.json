@@ -1,0 +1,61 @@
+[ {
+  "uid" : "c8ae987fc2cb264d",
+  "name" : "elementsUi",
+  "time" : {
+    "start" : 1619419040757,
+    "stop" : 1619419040757,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a1718889a806026c",
+  "name" : "deleteTwitter",
+  "time" : {
+    "start" : 1619419040761,
+    "stop" : 1619419040761,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7daa39550db8b3a0",
+  "name" : "IOSApps",
+  "time" : {
+    "start" : 1619419040547,
+    "stop" : 1619419040570,
+    "duration" : 23
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "98d4837bf3cdbf50",
+  "name" : "NativeAPpAndroid",
+  "time" : {
+    "start" : 1619419040745,
+    "stop" : 1619419040745,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c60f8290d05664d",
+  "name" : "BrowserAUtomation",
+  "time" : {
+    "start" : 1619419040754,
+    "stop" : 1619419040754,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d0ce6c5d1caab6e8",
+  "name" : "postJira",
+  "time" : {
+    "start" : 1619419040765,
+    "stop" : 1619419040766,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

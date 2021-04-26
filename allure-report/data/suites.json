@@ -1,0 +1,103 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "Surefire suite",
+    "children" : [ {
+      "name" : "Surefire test",
+      "children" : [ {
+        "name" : "qaclickacademy.AppiumTest",
+        "children" : [ {
+          "name" : "IOSApps",
+          "uid" : "7daa39550db8b3a0",
+          "parentUid" : "ba170c9f1ce2dee72c897ce34b027a1c",
+          "status" : "passed",
+          "time" : {
+            "start" : 1619419040547,
+            "stop" : 1619419040570,
+            "duration" : 23
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "NativeAPpAndroid",
+          "uid" : "98d4837bf3cdbf50",
+          "parentUid" : "ba170c9f1ce2dee72c897ce34b027a1c",
+          "status" : "passed",
+          "time" : {
+            "start" : 1619419040745,
+            "stop" : 1619419040745,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "ba170c9f1ce2dee72c897ce34b027a1c"
+      }, {
+        "name" : "qaclickacademy.SeleniumTest",
+        "children" : [ {
+          "name" : "BrowserAUtomation",
+          "uid" : "c60f8290d05664d",
+          "parentUid" : "70ec0a435dfc66a34735084ce59f2247",
+          "status" : "passed",
+          "time" : {
+            "start" : 1619419040754,
+            "stop" : 1619419040754,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "elementsUi",
+          "uid" : "c8ae987fc2cb264d",
+          "parentUid" : "70ec0a435dfc66a34735084ce59f2247",
+          "status" : "passed",
+          "time" : {
+            "start" : 1619419040757,
+            "stop" : 1619419040757,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "70ec0a435dfc66a34735084ce59f2247"
+      }, {
+        "name" : "qaclickacademy.RESTAPITest",
+        "children" : [ {
+          "name" : "deleteTwitter",
+          "uid" : "a1718889a806026c",
+          "parentUid" : "4caa128b8c153bdb837b50029330c168",
+          "status" : "passed",
+          "time" : {
+            "start" : 1619419040761,
+            "stop" : 1619419040761,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "postJira",
+          "uid" : "d0ce6c5d1caab6e8",
+          "parentUid" : "4caa128b8c153bdb837b50029330c168",
+          "status" : "passed",
+          "time" : {
+            "start" : 1619419040765,
+            "stop" : 1619419040766,
+            "duration" : 1
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "4caa128b8c153bdb837b50029330c168"
+      } ],
+      "uid" : "1fcb2e6ec8e5b5e8a1f2a70b87c80b24"
+    } ],
+    "uid" : "940a09faf31371a51747026c9d178f0a"
+  } ]
+}

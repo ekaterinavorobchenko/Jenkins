@@ -1,0 +1,91 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "MBP-Jenia-4.localdomain",
+    "children" : [ {
+      "name" : "1570@MBP-Jenia-4.localdomain.main(1)",
+      "children" : [ {
+        "name" : "IOSApps",
+        "uid" : "7daa39550db8b3a0",
+        "parentUid" : "8dac44613201cb8fc5ae34a9b8221950",
+        "status" : "passed",
+        "time" : {
+          "start" : 1619419040547,
+          "stop" : 1619419040570,
+          "duration" : 23
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "BrowserAUtomation",
+        "uid" : "c60f8290d05664d",
+        "parentUid" : "8dac44613201cb8fc5ae34a9b8221950",
+        "status" : "passed",
+        "time" : {
+          "start" : 1619419040754,
+          "stop" : 1619419040754,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "elementsUi",
+        "uid" : "c8ae987fc2cb264d",
+        "parentUid" : "8dac44613201cb8fc5ae34a9b8221950",
+        "status" : "passed",
+        "time" : {
+          "start" : 1619419040757,
+          "stop" : 1619419040757,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "postJira",
+        "uid" : "d0ce6c5d1caab6e8",
+        "parentUid" : "8dac44613201cb8fc5ae34a9b8221950",
+        "status" : "passed",
+        "time" : {
+          "start" : 1619419040765,
+          "stop" : 1619419040766,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "NativeAPpAndroid",
+        "uid" : "98d4837bf3cdbf50",
+        "parentUid" : "8dac44613201cb8fc5ae34a9b8221950",
+        "status" : "passed",
+        "time" : {
+          "start" : 1619419040745,
+          "stop" : 1619419040745,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "deleteTwitter",
+        "uid" : "a1718889a806026c",
+        "parentUid" : "8dac44613201cb8fc5ae34a9b8221950",
+        "status" : "passed",
+        "time" : {
+          "start" : 1619419040761,
+          "stop" : 1619419040761,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "8dac44613201cb8fc5ae34a9b8221950"
+    } ],
+    "uid" : "ed67d85a55265cbb8d61934cc48afb4b"
+  } ]
+}

@@ -1,0 +1,7 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Mon Apr 26 09:37:20 MSK 2021","Mon Apr 26 09:37:20 MSK 2021","0","Surefire suite","Surefire test","qaclickacademy.SeleniumTest","qaclickacademy.SeleniumTest","BrowserAUtomation","BrowserAUtomation",""
+"passed","Mon Apr 26 09:37:20 MSK 2021","Mon Apr 26 09:37:20 MSK 2021","0","Surefire suite","Surefire test","qaclickacademy.AppiumTest","qaclickacademy.AppiumTest","NativeAPpAndroid","NativeAPpAndroid",""
+"passed","Mon Apr 26 09:37:20 MSK 2021","Mon Apr 26 09:37:20 MSK 2021","1","Surefire suite","Surefire test","qaclickacademy.RESTAPITest","qaclickacademy.RESTAPITest","postJira","postJira",""
+"passed","Mon Apr 26 09:37:20 MSK 2021","Mon Apr 26 09:37:20 MSK 2021","0","Surefire suite","Surefire test","qaclickacademy.RESTAPITest","qaclickacademy.RESTAPITest","deleteTwitter","deleteTwitter",""
+"passed","Mon Apr 26 09:37:20 MSK 2021","Mon Apr 26 09:37:20 MSK 2021","23","Surefire suite","Surefire test","qaclickacademy.AppiumTest","qaclickacademy.AppiumTest","IOSApps","IOSApps",""
+"passed","Mon Apr 26 09:37:20 MSK 2021","Mon Apr 26 09:37:20 MSK 2021","0","Surefire suite","Surefire test","qaclickacademy.SeleniumTest","qaclickacademy.SeleniumTest","elementsUi","elementsUi",""

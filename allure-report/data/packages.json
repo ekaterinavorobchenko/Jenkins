@@ -1,0 +1,99 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "qaclickacademy",
+    "children" : [ {
+      "name" : "AppiumTest",
+      "children" : [ {
+        "name" : "IOSApps",
+        "uid" : "7daa39550db8b3a0",
+        "parentUid" : "7c52cbb7c9a14c35d3233016331c0087",
+        "status" : "passed",
+        "time" : {
+          "start" : 1619419040547,
+          "stop" : 1619419040570,
+          "duration" : 23
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "NativeAPpAndroid",
+        "uid" : "98d4837bf3cdbf50",
+        "parentUid" : "7c52cbb7c9a14c35d3233016331c0087",
+        "status" : "passed",
+        "time" : {
+          "start" : 1619419040745,
+          "stop" : 1619419040745,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "7c52cbb7c9a14c35d3233016331c0087"
+    }, {
+      "name" : "SeleniumTest",
+      "children" : [ {
+        "name" : "BrowserAUtomation",
+        "uid" : "c60f8290d05664d",
+        "parentUid" : "81633ac47657cd03e70da55d0a60c9fb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1619419040754,
+          "stop" : 1619419040754,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "elementsUi",
+        "uid" : "c8ae987fc2cb264d",
+        "parentUid" : "81633ac47657cd03e70da55d0a60c9fb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1619419040757,
+          "stop" : 1619419040757,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "81633ac47657cd03e70da55d0a60c9fb"
+    }, {
+      "name" : "RESTAPITest",
+      "children" : [ {
+        "name" : "deleteTwitter",
+        "uid" : "a1718889a806026c",
+        "parentUid" : "adcdcf2cc2b9691d169a96b48872b5ff",
+        "status" : "passed",
+        "time" : {
+          "start" : 1619419040761,
+          "stop" : 1619419040761,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "postJira",
+        "uid" : "d0ce6c5d1caab6e8",
+        "parentUid" : "adcdcf2cc2b9691d169a96b48872b5ff",
+        "status" : "passed",
+        "time" : {
+          "start" : 1619419040765,
+          "stop" : 1619419040766,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "adcdcf2cc2b9691d169a96b48872b5ff"
+    } ],
+    "uid" : "67490dd2cd6af0c794304e66956efcf4"
+  } ]
+}
